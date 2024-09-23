@@ -3,7 +3,8 @@ kind: Component
 metadata:
   name: "testing3"
   annotations:
-    backstage.io/techdocs-ref: dir:C:\Users\Public\pratikpati1\docs
+    backstage.io/techdocs-ref: dir:/home/windchill/sample-backstage-docs/docs
+
 spec:
   type: service
   owner: guests
